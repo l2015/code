@@ -1,0 +1,809 @@
+#Unit 1 words
+albeit
+allocate
+arithmetic
+ARPAnet 
+assist
+Boolean 
+cache 
+commercial
+component
+concurrently 
+configuration
+consecutive
+context
+conventional
+coordinate
+decode
+distribute
+electrical circuit
+embarrassingly
+embedded
+employ
+firmware
+floppy disk drives
+hard disk drives
+increment
+integrated circuit
+interrupt
+mtervent1on
+loss
+mainframe
+matrices
+multiple
+multitasking
+optical disc
+performance
+peripheral
+principal
+redefinition
+register
+restrict
+Sabre
+scale
+sequence
+significance
+simulation
+simultaneously
+slice
+specialize
+storage
+subtract
+superscalar
+transform
+trigonometry function
+utilize
+vector
+wireless
+
+advertise
+album
+appliance
+apps
+blazing
+doom
+flawed
+footnote
+forecast
+geek
+hook
+juggle
+keychain
+laptop
+mainframe
+MapQuest
+Monty
+Mozilla
+Netscape
+Opera
+organizer
+subset
+temporary
+version
+vital
+watermark
+
+
+#Unit 1 phrase
+albeit with
+as extensions of
+as well as
+be capable of
+be viewed as
+break down into
+combined with
+faster than
+greater than
+in direct proportion to
+in time
+in tum
+interconnected by
+be equal to
+large-scale
+led to a number of
+less than
+made of
+nothing but
+put into
+several orders of
+so-called
+too much more rapidly than
+transforming into
+uptime 
+write back to
+be able to
+clunky hobby
+continuous lifetime
+encrypted on 
+experience in
+footage from your trip 
+from your trip 
+in the mainframe industry
+interact with
+off-the-shelf
+on the fringe
+personal organizer 
+pop···into 
+smell-o-mouse
+state-of-the-art 
+vacuum tube
+
+#Unit 2 words
+algorithm
+alternative
+equivalent 
+pow
+subroutine 
+variable
+breed
+capabilities
+continuity
+dedicate
+evolve
+expand
+formidable
+handheld
+navigation
+ongoing
+storage
+terminals
+wireless
+
+#Unit 2 phrases
+
+a set of curly brackets
+boundary condition
+declared as
+distinguish between
+in brackets
+rather like
+the same as
+charged with
+core for
+Foundation Profile
+Game Profile
+industrial strength
+Java Community Process Program
+memory availability
+Mobile Information Device Profile
+PDA Profile
+Personal Basis Profile
+Personal Profile
+point-of-sale terminals
+RMI Profile
+set-top boxes
+stripped-down
+used with
+
+
+#Unit 3 words
+algorithm
+automate
+bit
+calculus
+cardinality
+computability
+conversely
+cryptography
+derivation
+discrete
+distinct
+domain
+enumerate
+exclude
+formalize
+generalize
+geometrical
+hybrid
+implementation
+inference
+intuitive
+notation
+notion
+object
+optimization
+partially
+premise
+property
+rational
+subsets
+theorem
+topology
+ubiquitous
+verification
+verified
+circuit
+compound
+connected graph
+discipline
+equivalent
+in order traversal
+internal
+item
+preorder traversal
+transfect
+vertex
+vertices
+
+#Unit 3 phrases
+as well as
+be regarded as
+combinatorial topology
+complexity studies
+computational topology
+consistency soundness
+contemporary work
+continuous deformation
+continuous mathematics
+continuous-time Markov process
+continuous-time martingales
+countable sets
+directed acyclic graph structures
+discrete topological space
+distinct enough
+finite topological space
+in all areas of
+in branches of
+in contrast to
+intuitionistic logic
+knot theory
+the general term for
+the scope of
+topological combinatorics
+topological graph theory
+trigonometric series
+be carried out
+be employed to
+defined by
+followed by
+in a wide variety of
+in the study
+
+#Unit 4 words
+automate
+cascade
+circumvented
+commitment
+configuring
+constraint
+consultation
+definitive 
+derived 
+fundamental 
+generic 
+Nunsense
+inflexible
+integrating
+intellectual 
+interleave
+iteration 
+omission
+overlap 
+paradigm
+partial
+partition 
+perspective 
+phase 
+radically
+scope 
+scratch 
+specification
+validation
+verifying
+albeit
+artifact
+blueprint
+conceptual
+critical
+database
+deploy
+dictate
+graphically
+hierarchy
+implementation
+incremental
+mstrumentat1on
+mtens1ve
+intervention
+1terat1ve
+mapping
+mechanism
+migration
+minimal
+multiple
+optimally
+persistent
+precise
+prototype
+representation
+semantics
+simulation
+specify
+transcend
+trivial
+unambiguously
+yield
+
+#Unit 4 phrases
+architectural perspective
+at least
+be delivered to
+because of
+component-based software engineering
+evolutionary development
+fled... to
+in detail
+in earlier stages of the life cycle
+take advantage of
+takes over
+the longest life-cycle phase
+the waterfall models
+think of
+a whiteboard
+enterprise information systems
+error-prone
+real-time embedded systems
+software-intensive system
+Unified Modeling Language
+Web-based applications
+
+
+#Unit 5 words
+architecture
+assume
+browser
+conjunction
+controlling
+dedicated
+demonstration
+display
+distribution
+experimentation
+inherently
+intent
+interact
+interactively
+interpreter
+manipulate
+parameter
+script
+statement
+terminate
+violate
+assign
+committed
+guarantee
+handle
+mcons1stent
+initial
+interleave
+issue
+multiple
+multi-thread
+occur
+prior
+problematic
+property
+relevant
+serialize
+successive
+transaction
+#Unit 5 phrases
+client
+server
+convenient to
+on the other side
+point-and-click interface to
+so forth
+Structured Query Language
+a couple of
+a set of
+deal with
+dependent on
+figure out
+in principle
+so that
+
+#Unit 6 words
+analog 
+anti-lock brakes
+ascendance
+chip
+component
+computerize
+constraint
+contrast
+corrupt
+dashboard
+descriptive
+distinction
+effective
+equivalent
+exclusively
+external
+inevitable
+introduction
+manufacturer
+microprocessor
+microwave
+monitor
+navigation
+numerous
+PDA
+potential
+preparation
+prevalence
+probe
+satellite
+shipped
+slate
+summarize
+thermostat
+unmanned
+unnoticed
+vehicle
+appreciate
+compatriot
+complexity
+comprehension
+coordinate
+crumple
+cryptic
+document
+eliminate
+exclusively
+familiarize
+illustrate
+parallel
+perspective
+plenty
+reference
+retrieval
+ultimately 
+version
+
+#Unit 6 phrases
+a piece of
+airbag
+as bad as
+at the other end of
+be involved in
+be worthy of
+bread machines
+comprised of
+continuum
+electronic organizers
+food processors
+general-purpose computer
+in human affairs
+in terms of
+integrated circuit
+involved in
+made up of
+microwave ovens
+personal digital assistants
+an imperative component of
+be familiar with
+be plenty of
+crumple up
+defined as
+familiarize with
+interaction with
+memory-mapped
+printer-sharing
+the General Public License
+throw away
+with the help of
+
+#Unit 7 words
+abstract
+activated
+align
+constitute
+construct
+encapsulation
+essential
+evolve
+existing
+fundamental
+generation
+hidden
+illustrate
+initially
+mterconnect1on
+logically
+migration
+multiple
+operational
+permanently
+physically
+promote
+protocol
+prototype
+reformulation
+reliability
+rigid
+scenar10
+socket
+standard
+synthesis
+translate
+transmission
+vendor
+abstraction
+analytics
+available
+choreograph
+combine
+complexity
+concentrate
+connectiv1ty
+convert
+disconnected
+domain
+elasticity
+embarrassingly
+expenditure
+fine grain
+high margin
+infrastructure
+latency
+mathematics
+mitigate
+nonhuman
+obstacle
+parallelism
+release
+rendering
+scalable
+seamless
+selection
+shift
+speculate
+spike
+sufficient
+terabyte
+term
+thwart
+usage
+visualization
+
+#Unit 7 phrases
+a set of
+consumer-targeted
+in order to
+instead of
+open architecture
+the internet layers
+the link layers
+the transport layers
+in making the decision
+leveling off
+open source
+symbolic mathematics
+the appeal of
+
+
+#Unit 8 words
+accessible
+accurately
+category
+characteristic
+entity
+1mmers10n
+inadequate
+inadvertently
+orient
+practical
+procedural
+revolution
+separately
+simultaneously
+structure
+variable
+catastrophically
+conceptually
+degrade
+distinct
+essentially
+hash
+investigate
+linked
+mechanism
+performance
+periodically
+relatively
+significantly
+time-consuming
+versatile
+
+#Unit 8 phrases
+be inadequate for
+engendered by
+furnace control program
+in the form of
+thermostat objects
+random access
+take close to
+unparalleled in
+round-robin
+blocks of
+scattered throughout
+
+#Unit 9 words
+annual
+appropriate
+assort
+available
+caricature
+cluster
+composite
+conference 
+conform
+departure
+distribution 
+division 
+enroll 
+enthusiast 
+faculty
+generate 
+identical
+initially
+legacy 
+license
+noteworthy 
+package
+pattern
+perspective
+piracy 
+platform 
+prohibit 
+pseudonym
+restriction
+retail 
+submit 
+subscriber 
+subscription 
+tier 
+via 
+volume
+additional
+alert
+category
+Component
+I Component
+Container, and I Container classes
+constituent
+corresponding
+documentation
+emphasis
+exception
+forums
+Implement
+inherit
+instance
+interact
+parameter
+pending
+persistence
+repository
+scenarios
+synchronous
+visual
+#Unit 9 phrases
+caught with 
+evangelizing potential offerings
+incorporation of
+in case
+in a variety of
+
+#Unit 10 words
+compilation
+compiler
+complex
+efficient
+execute
+formulate
+guarantee
+infinite
+insufficient
+linear
+magnitude
+mathematical
+matrix
+minimize
+misnomer
+multicore
+nontrivial
+optimization
+overemphasize
+parallel
+prevalence
+validate
+yielding
+automatically
+dynamically
+emphasis
+evolution
+explicitly
+exploit
+generate
+gigabytes
+harnessed
+hierarchy
+insatiable
+kilobyte
+limitation
+multiple
+multi-threaded
+parallelism
+rearrange
+scheduler
+sequence
+simultaneously
+storage
+synchronization
+
+#Unit 10 phrases
+in the source program
+on our intuitions
+taking advantage of
+consists of
+hundreds of
+
+#Unit 11 words
+cellular
+crucial
+debug
+derive
+descendant
+elaborate
+enthusiast
+genesis
+implementation
+innovative
+intermediary
+mainframe
+minority
+notable
+panel
+primitive
+proprietary
+resemble
+scheduled
+toggle
+trademark
+AGP Aperture Size 
+applications
+boot device 
+boot sequence 
+CD-ROM
+delay prior to thermal
+device configuration
+DRAM
+environment subsystems 
+general Help 
+IDE
+item help
+kernel 
+LAN
+latency time 
+memory hole
+primary master 
+primary slave
+service
+shell
+system BIOS cacheable
+system processes 
+system service dispatcher
+system thread
+USB
+USB controller
+
+#Unit 11 phrases
+clothes-pegs
+conform to
+job-priority
+set to
+shown to
+successors
