@@ -2,7 +2,7 @@
 int main()
 {
     void inv(int x[], int n); // inv函数声明
-    int i, a[10] = {3, 7, 9, 11, 0, 6, 7, 5, 4, 2};
+    int i, a[10] = {8, 7, 9, 1, 0, 6, 27, 5, 4, 2};
     printf("The original array:\n");
     for (i = 0; i < 10; i++)
         printf("%d ", a[i]); // 输出未交换时数组各元素的值
